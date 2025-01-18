@@ -1,6 +1,6 @@
 import React from "react";
 import { InteractiveHoverButton } from "./ui/InteractiveHoverButtons";
-
+import { InteractiveHoverButtonColor2 } from "./ui/ButtonColor";
 
 const Contact = () => {
   return (
@@ -22,9 +22,9 @@ const Contact = () => {
           <InteractiveHoverButton link="https://github.com/14-Hari-14">
             Github
           </InteractiveHoverButton>
-          <InteractiveHoverButtonColor link="https://www.linkedin.com/in/hari-nair-243811247">
+          <InteractiveHoverButtonColor2 link="https://www.linkedin.com/in/hari-nair-243811247">
             Linkedin
-          </InteractiveHoverButtonColor>
+          </InteractiveHoverButtonColor2>
           <InteractiveHoverButton link="https://www.instagram.com/ha.rii_14/">
             Instagram
           </InteractiveHoverButton>
