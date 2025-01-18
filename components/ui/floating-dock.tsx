@@ -23,7 +23,7 @@ export const FloatingDockVertical = () => {
 
 const FloatingDockCoreVertical = () => {
   const links: LinkType[] = [
-    { title: 'Linkedin', icon: <IconBrandLinkedin className="h-full w-full text-neutral-500" />, href: 'https://www.linkedin.com/in/hari-nair-243811247/', target:"_blank", },
+    { title: 'Linkedin', icon: <IconBrandLinkedin className="h-full w-full text-neutral-500" />, href: 'https://www.linkedin.com/in/hari-nair-243811247', target:"_blank", },
     { title: 'Github', icon: <IconBrandGithub className="h-full w-full text-neutral-500" />, href: 'https://github.com/14-Hari-14', target:"_blank",},
     { title: 'Instagram', icon: <IconBrandInstagram className="h-full w-full text-neutral-500" />, href: 'https://www.instagram.com/ha.rii_14/', target:"_blank",  },
   ];
