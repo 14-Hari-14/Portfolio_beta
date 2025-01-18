@@ -22,9 +22,9 @@ const Contact = () => {
           <InteractiveHoverButton link="https://github.com/14-Hari-14">
             Github
           </InteractiveHoverButton>
-          <InteractiveHoverButtonColor2 link="https://www.linkedin.com/in/hari-nair-243811247">
+          <InteractiveHoverButtonColor link="https://www.linkedin.com/in/hari-nair-243811247">
             Linkedin
-          </InteractiveHoverButtonColor2>
+          </InteractiveHoverButtonColor>
           <InteractiveHoverButton link="https://www.instagram.com/ha.rii_14/">
             Instagram
           </InteractiveHoverButton>
