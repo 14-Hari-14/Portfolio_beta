@@ -1,4 +1,4 @@
-import { SiHtml5, SiCss3, SiJavascript, SiReact, SiNextdotjs, SiNodedotjs, SiPython, SiC, SiCplusplus, SiOpenjdk, SiGit, SiGithub } from "react-icons/si";
+import { SiHtml5, SiCss3, SiJavascript, SiReact, SiNextdotjs, SiNodedotjs, SiPython, SiC, SiCplusplus, SiOpenjdk, SiGit, SiGithub, SiMysql } from "react-icons/si";
 import heritageLogo from '../images/heritage_logo.png'
 import mecLogo from '../images/mec_logo.jpg'
 
@@ -28,6 +28,7 @@ const About = () => {
                         <SiC className="text-blue-400 text-[40px] lg:text-[60px]" title="C" />
                         <SiCplusplus className="text-blue-300 text-[40px] lg:text-[60px]" title="C++" />
                         <SiOpenjdk className="text-white-100 text-[40px] lg:text-[60px]" title="Java" />
+                        <SiMysql className="text-blue-300 text-[40px] lg:text-[60px]" title="sql" />
                     </div>
 
                     <h2 className="text-xl md:text-2xl lg:text-[30px] mt-6 lg:mt-10">Other Utilities:</h2>
